@@ -9,7 +9,7 @@ Un blog increíble para el curso de Git y Github de Platzi.
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
-* Creado por el increíble Platzi Team
+* Creado por David Giraldo
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
